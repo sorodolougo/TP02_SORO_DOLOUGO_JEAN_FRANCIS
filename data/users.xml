@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <id>soro2</id>
+        <login>soro2</login>
+        <lastname>jean</lastname>
+        <firstname>francis</firstname>
+    </user>
+    <user>
+        <id>soro2</id>
+        <login>soro2</login>
+        <lastname>jean</lastname>
+        <firstname>francis</firstname>
+    </user>
+    <user>
+        <id>francis80</id>
+        <login>francis80</login>
+        <lastname>soro1</lastname>
+        <firstname>dolougo jean francis</firstname>
+    </user>
+</users>

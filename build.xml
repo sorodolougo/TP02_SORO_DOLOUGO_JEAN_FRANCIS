@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="TPJsp" default="default" basedir=".">
-    <description>Builds, tests, and runs the project TPJsp.</description>
+<project name="TP02_SORO_DOLOUGO_JEAN_FRANCIS" default="default" basedir=".">
+    <description>Builds, tests, and runs the project TP02_SORO_DOLOUGO_JEAN_FRANCIS.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
